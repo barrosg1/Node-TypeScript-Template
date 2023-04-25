@@ -1,0 +1,1 @@
+{"version":3,"file":"dummyController.controller.js","sourceRoot":"","sources":["../../../src/controllers/dummyController.controller.ts"],"names":[],"mappings":";;;;AAAA,mCAAiC;AAEjC,IACa,eAAe,GAD5B,MACa,eAAe;IAC1B;QACO,SAAI,GAAG,GAAG,EAAE;YACjB,OAAO,CAAC,GAAG,CAAC,uBAAuB,CAAC,CAAC;QACvC,CAAC,CAAC;IAHa,CAAC;CAIjB,CAAA;AALY,eAAe;IAD3B,IAAA,gBAAO,GAAE;;GACG,eAAe,CAK3B;AALY,0CAAe"}
